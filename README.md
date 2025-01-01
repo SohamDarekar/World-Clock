@@ -6,7 +6,7 @@ A responsive web application to display current times from various cities around
 The **World Clock** project dynamically updates the time every second, ensuring accuracy and real-time responsiveness. With a throwback to the classic Windows XP era, this clock combines simplicity, utility, and nostalgia.
 ## Live Site
 
-[Click here to see the live site](https://sohamdarekar.github.io/world-clock/)
+[Click here to see the live site](https://sohamdarekar.github.io/World-Clock/)
 
 
 
